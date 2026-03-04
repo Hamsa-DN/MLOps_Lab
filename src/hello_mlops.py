@@ -17,3 +17,7 @@ print("numpy:", np.__version__)
 print("sklearn:", sklearn.__version__)
 print("dvc:", dvc.__version__)
 print("mlflow:", mlflow.__version__)
+
+print("=" * 50)
+print("✓ MLOps Environment Ready!")
+print("=" * 50)
